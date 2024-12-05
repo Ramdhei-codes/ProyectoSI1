@@ -6,4 +6,4 @@ añadir este parámetro en los llamados recursivos del algoritmo en las líneas 
 cuando se hacen las condiciones de si alfa es mayor que beta (líneas 439 y 454) sumamos uno a la
 cantidad de nodos podados
 
-Imprimimos la cantidad de nodos podados en el jugador maximizador
+Imprimimos la cantidad de nodos podados en el jugador maximizador en cada movimiento
