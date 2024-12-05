@@ -1,0 +1,8 @@
+C_b,C,C,C,C,C,C,C
+C,C,C,C,C,C,C,C
+C,C,C,C,C,C,C,C
+C,C,C,C_g,C,C,C,C
+C_g,C,C,C,C,C,C,C
+C,C,C,C,C,C,C,C
+C,C,C,C,C,C,C,C
+C,C,C,C,C,C,C,R_s

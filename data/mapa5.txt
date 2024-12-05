@@ -1,0 +1,4 @@
+M,M,M,M,M
+M,C,C,C_b,M
+M,R,M,M,C_g,
+C,C,R,R_s,C
